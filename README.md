@@ -1,5 +1,5 @@
 # Kaggle-Titanic-Survival
-#####    Score among Top 3% of kaggle. Rank - 321/10680     (8 april 1018)     #####
+#    Score among Top 3% of kaggle. Rank - 321/10680     (8 april 1018)     #####
 # Algorithms used :  Decision Trees, Random Forest and XGBoost
 
 Titanic data survival yes or no prediction. 
