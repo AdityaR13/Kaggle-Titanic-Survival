@@ -54,3 +54,6 @@ parch: The dataset defines family relations in this way...
 Parent = mother, father
 Child = daughter, son, stepdaughter, stepson
 Some children travelled only with a nanny, therefore parch=0 for them.
+
+
+Submission files of random forest and xgboost are not added for privacy.
